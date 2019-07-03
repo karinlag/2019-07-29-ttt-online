@@ -125,12 +125,6 @@ This is an online event. We will meet using the online videoconference software 
 
 We are committed to making this workshop
 accessible to everybody.
-The workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 
 Materials will be provided in advance of the workshop and
 large-print handouts are available if needed by notifying the
