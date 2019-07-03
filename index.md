@@ -13,12 +13,8 @@ contact: ["karin.lagesen@gmail.com", "lacion@gmail.com"]    # boxed, comma-separ
 etherpad: https://pad.carpentries.org/2019-07-29-ttt-Online-US-Eastern   # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
+  - venue: "Online - will be updated"
     address: "https://carpentries.zoom.us/j/FIXME"
-
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
 
 ---
 
